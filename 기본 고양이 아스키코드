@@ -1,0 +1,9 @@
+int main() {
+  printf(".　　　　 　／＞  フ\n");
+  printf("　　　　 　|　ᴗ͈ ᴗ͈ |\n");
+  printf("　 　　　／`ミ _x 彡\n");
+  printf("　　 　 /　　　   |\n");
+  printf("　　　 /　 ヽ　   ﾉ\n");
+  printf("　／￣|　　 |　| |\n");
+  printf(" | (￣ヽ＿_ヽ_)_)\n");
+  printf("  ＼二つ\n");}
