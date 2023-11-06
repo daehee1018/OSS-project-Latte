@@ -1,0 +1,27 @@
+
+        case 0:
+          printf("   _______\n");
+          printf("---'   ____)____\n");
+          printf("          ______)\n");
+          printf("       __________)\n");
+          printf("      (____)\n");
+          printf("---.__(___)\n");
+            break;
+        case 1:
+          printf("    _______\n");
+          printf("---'   ____)\n");
+          printf("      (_____)       \n");
+          printf("      (_____)       \n");
+          printf("      (____)        \n");
+          printf("---.__(___)         \n");
+
+            break;
+        case 2:
+          printf("    _______\n");
+          printf("---'   ____)____\n");
+          printf("          ______)\n");
+          printf("          _______)\n");
+          printf("         _______)\n");
+          printf("---.__________)\n");
+            break;
+    
